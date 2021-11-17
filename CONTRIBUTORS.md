@@ -1,40 +1,40 @@
-“Œ‹ž“sƒI[ƒvƒ“Eƒ\[ƒXEƒ\ƒtƒgƒEƒFƒAŒöŠJƒKƒCƒhƒ‰ƒCƒ“‚ÌƒRƒ“ƒgƒŠƒrƒ…[ƒ^[
+æ±äº¬éƒ½ã‚ªãƒ¼ãƒ—ãƒ³ãƒ»ã‚½ãƒ¼ã‚¹ãƒ»ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢å…¬é–‹ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ã®ã‚³ãƒ³ãƒˆãƒªãƒ“ãƒ¥ãƒ¼ã‚¿ãƒ¼
 ============================================
 
-## •ÒW‚ðs‚Á‚½ƒƒ“ƒo[iXVŽž“_Š‘®j
+## ç·¨é›†ã‚’è¡Œã£ãŸãƒ¡ãƒ³ãƒãƒ¼ï¼ˆæ›´æ–°æ™‚ç‚¹æ‰€å±žï¼‰
 
-| –¼‘O | Š‘® |
+| åå‰ | æ‰€å±ž |
 | --- | --- |
-| ‰¬Œ´ ‘ | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” ƒfƒWƒ^ƒ‹ŠJ”­’S“–‰Û’· |
-| ¬àV —m”V | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” í—ª‰Û’· |
-| ¼–ì —F—Y | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” ƒfƒWƒ^ƒ‹ƒVƒtƒg„i’S“–‰Û’· |
-| ¼‹ ˜aL | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” ƒfƒWƒ^ƒ‹„i‰Û ‰Û’·‘ã—iƒfƒWƒ^ƒ‹ƒVƒtƒg„i’S“–j |
-| “c‘º ³“T | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” ƒfƒWƒ^ƒ‹„i‰Û ‰Û’·‘ã—iƒfƒWƒ^ƒ‹ƒVƒtƒg„i’S“–j |
-| ’–ƒmŒû Â | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” í—ª‰ÛŽåŽ– |
-| ŽR“c “Ä•F | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç í—ª•” í—ª‰ÛŽåŽ– |
-| ‘åÎ °“ú | “Œ‹ž“s ƒfƒWƒ^ƒ‹ƒT[ƒrƒX‹Ç ƒfƒWƒ^ƒ‹ƒT[ƒrƒX„i•” ƒlƒbƒgƒ[ƒN„i‰ÛŽåŽ– |
+| è»åŽŸ è¡ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ ãƒ‡ã‚¸ã‚¿ãƒ«é–‹ç™ºæ‹…å½“éƒ¨é•· |
+| å°æ¾¤ æ´‹ä¹‹ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ æˆ¦ç•¥èª²é•· |
+| æ¾é‡Ž å‹é›„ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚·ãƒ•ãƒˆæŽ¨é€²æ‹…å½“èª²é•· |
+| æ¾å±… å’Œåºƒ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ ãƒ‡ã‚¸ã‚¿ãƒ«æŽ¨é€²èª² èª²é•·ä»£ç†ï¼ˆãƒ‡ã‚¸ã‚¿ãƒ«ã‚·ãƒ•ãƒˆæŽ¨é€²æ‹…å½“ï¼‰ |
+| ç”°æ‘ æ­£å…¸ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ ãƒ‡ã‚¸ã‚¿ãƒ«æŽ¨é€²èª² èª²é•·ä»£ç†ï¼ˆãƒ‡ã‚¸ã‚¿ãƒ«ã‚·ãƒ•ãƒˆæŽ¨é€²æ‹…å½“ï¼‰ |
+| çŒªãƒŽå£ æ¸‰ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ æˆ¦ç•¥èª²ä¸»äº‹ |
+| å±±ç”° ç¯¤å½¦ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ æˆ¦ç•¥éƒ¨ æˆ¦ç•¥èª²ä¸»äº‹ |
+| å¤§çŸ³ æ™´æ—¥ | æ±äº¬éƒ½ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹å±€ ãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹æŽ¨é€²éƒ¨ ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æŽ¨é€²èª²ä¸»äº‹ |
 
 
-## ŽÓŽ«
-•ÒW‚É‚ ‚½‚è‚Ü‚µ‚Ä‚ÍA‰º‹L‚ÌŠF—l‚É‚²‹¦—Í‚¢‚½‚½‚¾‚«‚Ü‚µ‚½‚±‚Æ‚ðA‰ü‚ß‚ÄŠ´ŽÓ\‚µã‚°‚Ü‚·B
+## è¬è¾ž
+ç·¨é›†ã«ã‚ãŸã‚Šã¾ã—ã¦ã¯ã€ä¸‹è¨˜ã®çš†æ§˜ã«ã”å”åŠ›ã„ãŸãŸã ãã¾ã—ãŸã“ã¨ã‚’ã€æ”¹ã‚ã¦æ„Ÿè¬ç”³ã—ä¸Šã’ã¾ã™ã€‚
 
-| ‚¨–¼‘O | ‚²Š‘® |
+| ãŠåå‰ | ã”æ‰€å±ž |
 | --- | --- |
-| ‰““¡ ‰ël | The Linux Foundation OpenChain Project Automotive Chair / Japan Work Group Promotion Sub Group Leader |
-| ‘åè ‰ës | The Linux Foundation OpenChain Project |
-| ¬•Û“c ‹K¶ | The Linux Foundation OpenChain Project | 
-| ‚{ ³˜a  | ŠJŒ¹ŽÐiChina Open Source Alliance) / ‘ˆî“c‘åŠwƒŠƒT[ƒ`ƒCƒmƒx[ƒVƒ‡ƒ“ƒZƒ“ƒ^[ |
-| •ŸˆÀ “¿W | Linux Foundation Japan ‘ã•\ |
-| ”ª“c ^s | x‰Í‘ä‘åŠwŒoÏŒo‰cŠw•”y‹³Žö |
+| é è—¤ é›…äºº | The Linux Foundation OpenChain Project Automotive Chair / Japan Work Group Promotion Sub Group Leader |
+| å¤§å´Ž é›…è¡Œ | The Linux Foundation OpenChain Project |
+| å°ä¿ç”° è¦ç”Ÿ | The Linux Foundation OpenChain Project | 
+| é«˜é ˆ æ­£å’Œ  | é–‹æºç¤¾ï¼ˆChina Open Source Alliance) / æ—©ç¨²ç”°å¤§å­¦ãƒªã‚µãƒ¼ãƒã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚»ãƒ³ã‚¿ãƒ¼ |
+| ç¦å®‰ å¾³æ™ƒ | Linux Foundation Japan ä»£è¡¨ |
+| å…«ç”° çœŸè¡Œ | é§¿æ²³å°å¤§å­¦çµŒæ¸ˆçµŒå–¶å­¦éƒ¨å‡†æ•™æŽˆ |
 
 
-## ƒKƒCƒhƒ‰ƒCƒ“‚ÌXV‚É‚²‹¦—Í‚¢‚½‚¾‚¢‚½ŠF—l
-ƒKƒCƒhƒ‰ƒCƒ“‚ÌXV‚É‚ ‚½‚èA‰º‹L‚ÌŠF—l‚É‚²‹¦—Í‚¢‚½‚¾‚«‚Ü‚µ‚½‚±‚Æ‚ð‚¨—ç\‚µã‚°‚Ü‚·B
+## ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ã®æ›´æ–°ã«ã”å”åŠ›ã„ãŸã ã„ãŸçš†æ§˜
+ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ã®æ›´æ–°ã«ã‚ãŸã‚Šã€ä¸‹è¨˜ã®çš†æ§˜ã«ã”å”åŠ›ã„ãŸã ãã¾ã—ãŸã“ã¨ã‚’ãŠç¤¼ç”³ã—ä¸Šã’ã¾ã™ã€‚
 | Name (link) | GitHub | Link |
 | --- | --- | --- |
 | | | |
 
 
-‚¨–¼‘O‚ÌŒfÚ‚ð‚²Šó–]‚Ì•û‚ÍC[#11](https://github.com/Tokyo-Metro-Gov/tokyo-oss-guideline/issues/11)‚ÉƒRƒƒ“ƒg‚ð‚¨Šè‚¢‚µ‚Ü‚·B
+ãŠåå‰ã®æŽ²è¼‰ã‚’ã”å¸Œæœ›ã®æ–¹ã¯ï¼Œ[#11](https://github.com/Tokyo-Metro-Gov/tokyo-oss-guideline/issues/11)ã«ã‚³ãƒ¡ãƒ³ãƒˆã‚’ãŠé¡˜ã„ã—ã¾ã™ã€‚
 
 If you want to add your name, please comment on [#11](https://github.com/Tokyo-Metro-Gov/tokyo-oss-guideline/issues/11).
