@@ -1,20 +1,24 @@
-# �����s�I�[�v���E�\�[�X�E�\�t�g�E�F�A���J�K�C�h���C��
+# 東京都オープン・ソース・ソフトウェア公開ガイドライン
 
-## ���\�[�X
-- [�}�[�N�_�E���`��](./�����s�I�[�v���E�\�[�X�E�\�t�g�E�F�A���J�K�C�h���C��.md)
-- [pdf�`��](./pdf/�����s�I�[�v���\�[�X���J�K�C�h���C��.pdf)
+## リソース
+- [マークダウン形式](./東京都オープン・ソース・ソフトウェア公開ガイドライン.md)
+- [pdf形式](./pdf/東京都オープンソース公開ガイドライン.pdf)
 
-## �{�K�C�h���C���̖ړI�ƈӋ`�ɂ���
-�����sOSS���J�K�C�h���C���́A����̊����Ǒ΍�̌o���𓥂܂��AOSS���������炷�Љ�I���ʂ��A
-- �s���ۗL����m�I���Y�i�\�[�X�R�[�h�j���������Ƃ��āA�s���⑼�̎����̂Ƌ��L���邱�ƂŁA�����O���畝�L���ӌ��i�C�����P�ӌ��j�𕷂����Ƃ��\�ƂȂ�A����ɂ��OSS���̂������I�ɔ��W���A�s���ɂ��̗��v���Ҍ����邱�Ƃ��\�ƂȂ�B
-- ���̓�����S���ɔg�y�����邱�ƂŁA�s���Ȃǂ��ގ�����V�X�e�����\�z����ۂ̊J�����ԂƃR�X�g�̏k���ɂ���^���邱�Ƃ��ł���B
+## 本ガイドラインの目的と意義について
+東京都OSS公開ガイドラインは、今回の感染症対策の経験を踏まえつつ、OSS化がもたらす社会的効果を、
+- 都が保有する知的資産（ソースコード）を公共財として、都民や他の自治体と共有することで、国内外から幅広く意見（修正改善意見）を聞くことが可能となり、これによりOSS自体が自律的に発展し、都民にその利益を還元することが可能となる。
+- この動きを全国に波及させることで、行政などが類似するシステムを構築する際の開発時間とコストの縮減にも寄与することができる。
 
-�Ƒ����A���̌��ʂ��ő���Ɋ������A�s����QOS�i�N�I���e�B�E�I�u�E�T�[�r�X�j�̌���𐄐i���Ă������߁A���̃K�C�h���C�������肵�A�s�S�̂�OSS�Ɏ��g��ł������߂ɍ��肵�܂����B
-�{�K�C�h���C���́A�s�����������̂��̂ŁAOSS�̒�`����J����p���܂ł̎菇�A���ӓ_�Ȃǂ𖾋L���Ă��܂��B
+と捉え、その効果を最大限に活かし、都政のQOS（クオリティ・オブ・サービス）の向上を推進していくため、このガイドラインを策定し、都全体でOSSに取り組んでいくために策定しました。
+本ガイドラインは、都庁内部向けのもので、OSSの定義や公開から廃棄までの手順、注意点などを明記しています。
 
-## �{�K�C�h���C���� Github �ł̌��J���s������|�ɂ���
-�K�C�h���C�����A���R�ɑ������̂Ŕh�����p����邱�Ƃ�ړI�Ƃ��A�{�K�C�h���C�������J���Ă���ق��A�����̃V�r�b�N�e�b�N�E�G���W�j�A�̕��X�Ɍ��Ă��������A���P�_�̔c���ɓw�߂Ă����Ȃǂ̃t�H���[�A�b�v�����{���A�p���I�ɕK�v�Ȍ��������s���Ă������߁AGithub�ł̌��J���s���Ă��܂��B
+## 本ガイドラインを Github での公開を行った趣旨について
+ガイドラインを、自由に他自治体で派生利用されることを目的とし、本ガイドラインを公開しているほか、多くのシビックテック・エンジニアの方々に見ていただき、改善点の把握に努めていくなどのフォローアップを実施し、継続的に必要な見直しを行っていくため、Githubでの公開を行っています。
 
-## �������������ӌ��i Issue �� Pull Request �j�ւ̑Ή����j
-�K�C�h���C���̏C���́A�������������ӌ��ɂ��̓s�x�Ή�������̂ł͂Ȃ��A����I�ȏC���̋@���݂��A�C�����o�[�W�����A�b�v���ĎQ��܂��B
+## いただいたご意見（ Issue や Pull Request ）への対応方針
+ガイドラインの修正は、いただいたご意見にその都度対応するものではなく、定期的な修正の機会を設け、修正しバージョンアップして参ります。
 
+## License
+
+This guideline is licensed under CC0.
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
